@@ -1,0 +1,43 @@
+body {
+    background-image: url(img/library.jpg);
+    background-repeat: no-repeat;
+    color: whitesmoke;
+}
+
+header {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 36px;
+    height: 100%;
+    line-height: 60px;
+    color: whitesmoke;
+    /*background-color: #994C00;*/
+}
+
+.Lib{
+    margin-left: 60px;
+    letter-spacing: 2;
+}
+
+#navbar {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-left: 508px;
+    height: px;
+    float: right;
+    /*background-color: #994C00;*/
+}
+
+#navbar a {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0 20px;
+    height: 100%;
+    line-height: 60px;
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 36px;
+}
+
+main {}
